@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Danny Sierra
 tagline:          'Danny Sierra'
 description:      'Economics PhD Student at Florida State University.'
-url:              https://Dansier497.github.io
+url:              https://dannysierra.github.io
 baseurl:          #
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
