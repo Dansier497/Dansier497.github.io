@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Michael Darisse
-tagline:          'Michael Darisse'
+title:            Danny Sierra
+tagline:          'Danny Sierra'
 description:      'Economics PhD Student at Florida State University.'
-url:              https://michaeldarisse.github.io
+url:              https://Dansier497.github.io
 baseurl:          #
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,9 +14,9 @@ baseurl:          #
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:          Michael Darisse
-name:           'Michael Darisse'
-email:          mdarisse@fsu.edu
+author:          Danny Sierra
+name:           'Danny Sierra'
+email:          ds22c@fsu.edu
 
 
 paginate:         4
